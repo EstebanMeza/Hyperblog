@@ -5,3 +5,5 @@ tengo 21 años
 vivo en la ciudad de Pasto, Colombia
 
 este es mi primer commit
+
+estudia en la Universidad Nacional de Colombia sede Medellin
