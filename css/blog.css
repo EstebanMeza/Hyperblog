@@ -6,9 +6,23 @@ body {
     padding: 0;
 }
 
+.cabecera {
+    background-color: #33a;
+    
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 30px;
+    box-shadow: 0 4px 8px 0 black;
+}
+
+.post {
+    padding: 1em;
+}
+
 .container {
     width: 70%;
-    padding: 1em;
+    padding-top: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: auto;
