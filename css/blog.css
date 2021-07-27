@@ -1,5 +1,23 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: rgb(30, 27, 32);
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: auto;
+}
+
+.container h1 {
+    font-size: 30px;
+}
+
+.container p {
+    font-size: 20px;
 }
